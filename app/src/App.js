@@ -17,6 +17,7 @@ const LangSwitcher = () => (
     <a href='/' onClick={setLocale('uk')}>uk</a>
     <a href='/' onClick={setLocale('ru')}>ru</a>
     <a href='/' onClick={setLocale('en')}>en</a>
+    <a href='/' onClick={setLocale('zh-hk')}>hk</a>
   </div>
 )
 

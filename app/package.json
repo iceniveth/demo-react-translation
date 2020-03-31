@@ -6,8 +6,8 @@
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.1.1",
-    "ttag": "^1.4.2"
+    "react-scripts": "3.4.1",
+    "ttag": "^1.7.22"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -31,6 +31,6 @@
   ],
   "devDependencies": {
     "gh-pages": "^2.0.1",
-    "ttag-cli": "^1.4.2"
+    "ttag-cli": "^1.8.0"
   }
 }
